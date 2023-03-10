@@ -1,0 +1,17 @@
+-way of coding
+"SM"(Story_ModeSprite):[(Sprite's x position),(y),(Is sprite visible)]
+
+-example:
+"SM":[100,100, true]
+"FP":[100,300, false]
+"Discord":"I am menu!!!!"
+
+-Name
+"SM" = StoryMode
+"FP" = Freeplay
+"MD" = Mods
+"AD" = Awards
+"CD" = Credits
+"DN" = Donate
+"OP" = Options
+"Discord" = Discord's state
