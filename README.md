@@ -1,3 +1,8 @@
+# Psych Engine-H
+This Engine is a modified version of PsychEngine.
+##Added feauture
+ÅEAdd json that can change the coordinates of sprites and other objects in the state. (Check the description of each json in the Edits file.)<br>
+
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
@@ -21,7 +26,7 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 ## Credits:
 * Shadow Mario - Programmer
 * RiverOaken - Artist
-* Yoshubs - Assistant Programmer
+* Yoshubs - Programmer
 
 ### Special Thanks
 * bbpanzu - Ex-Programmer
