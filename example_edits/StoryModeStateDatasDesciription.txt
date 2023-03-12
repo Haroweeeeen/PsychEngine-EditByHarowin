@@ -1,0 +1,4 @@
+-example
+"TrackSprite":[Sprite's x position,Sprite's y position],
+"TrackText":[Sprite's x position,Sprite's y position],
+"Discord":"discord's state"
